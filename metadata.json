@@ -1,0 +1,6 @@
+{
+  "name": "GitPulse - GitHub Repository Analytics & Growth Intelligence",
+  "description": "Interactive GitHub repository analytics, commit timelines, top growing projects, and executive PDF reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
